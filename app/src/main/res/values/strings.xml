@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sports Feed</string>
+    <string name="emptyText">No stories for now , you can come later and check all exciting stories.</string>
+    <string name="internerError">No Internet Connection</string>
+    <string name="title">Football transfer rumours: Robert Lewandowski to Chelsea?</string>
+    <string name="date">Sep 21,2016</string>
+    <string name="sectionName">Football</string>
+    <string name="autorName">Abdel-Rahman</string>
+</resources>
